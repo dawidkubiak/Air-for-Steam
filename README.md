@@ -1,3 +1,6 @@
+Added macOS buttons
+
+
 # Air for Steam
 
 Air is a visual redesign of the Steam client that embraces Google's Material Design language to showcase consistent beauty through minimal design.
